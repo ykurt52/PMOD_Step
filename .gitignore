@@ -12,7 +12,10 @@ __Previews
 *.htm
 *.$$$
 
-Project/History
+# YK ignore
+Project\History
+Logs
+Status Report
 
 #useless dirs
 Project\ Outputs
