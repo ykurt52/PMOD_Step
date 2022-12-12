@@ -1,0 +1,12 @@
+Output: Panel NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PMOD_Step.PcbDoc]
+   Generated File[PMOD_Step.TXT]
+   Generated File[PMOD_Step.LDP]
+   Generated File[PMOD_Step.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:30:22 On 11.12.2022

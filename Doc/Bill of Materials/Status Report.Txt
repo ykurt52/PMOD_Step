@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:34:52 On 11.12.2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [PMOD_Step] of Project [PMOD_Step.PrjPcb]
+   Generated File[PMOD_Step_R00V0_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:34:55 On 11.12.2022
